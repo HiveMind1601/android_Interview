@@ -5,7 +5,7 @@ Android 面试宝典
 
 #### 一面
 
-1.[android中的dp、px、dip相关概念](pages/question_dp_px.md)
+1.[android中的dp、px、dip相关概念](android/question_dp_px.md)
 
 2.handler机制，四个组成部分及源码解析
 
