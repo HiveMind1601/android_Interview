@@ -11,7 +11,7 @@ Android 面试宝典
 
 3.布局相关的<merge>、<viewstub>控件作用及实现原理
 
-4.android中的布局优化
+4.[android中的布局优化](android/Android布局优化.md)
 
 5.relativelayout和LinearLayout在实现效果同等情况下选择使用哪个？为什么？
 
