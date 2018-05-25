@@ -69,3 +69,4 @@
 * RelativeLayout本身尽量不要嵌套使用。
 * View视图的隐藏与现实，尽量使用invisible。因为gone,不占用空间，视图会重新测量绘制；而invisible视图不会重新绘制，但仍然占用空间位置。
 * 布局调优工具：[hierarchy viewer](https://developer.android.com/studio/profile/hierarchy-viewer)，[Lint tool](https://blog.csdn.net/u011240877/article/details/54141714)
+shuijianbaozi push test 5/25
